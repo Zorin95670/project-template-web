@@ -1,0 +1,11 @@
+{
+  "application": {
+    "name": "TEMPLATE_WEB",
+    "description": "Web application template"
+  },
+  "urls": {
+    "apiVersion": null,
+    "userInformation": null,
+    "alerts": null
+  }
+}
